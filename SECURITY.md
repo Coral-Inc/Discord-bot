@@ -1,8 +1,10 @@
 # Security Policy
+When report this vulnerability do you accept the:
+Terms of Privacy. Web: https://terms-of-privacy.simplesite.com
 
 ## Supported Versions
 
-5.1.x, 5.0.x and 4.0.x
+5.1 and 4.0.x
 
 | Version | Supported          |
 | ------- | ------------------ |
